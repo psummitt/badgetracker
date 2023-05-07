@@ -1,23 +1,69 @@
 {
-    "campaign": "Associate Cloud Engineer",
-    "community": "GDG Lawrence",
-    "link": "https://gdg.community.dev/gdg-lawrence",
-    "badgesEndpoint": "https://us-central1-romanjustcodes.cloudfunctions.net/getBadges",
+    "campaign": "Professional Cloud Architect",
+    "community": "GDG Saint Louis",
+    "link": "https://gdg.community.dev/gdg-stlouis",
+    "badgesEndpoint": "https://us-central1-stlouisbadgetracker.cloudfunctions.net/stlouisbadgetracker",
     "sessions": [
         {
             "index": 0,
             "isSelected": false,
             "isComplete": false,
-            "date": "2022-07-21T00:00:00Z",
+            "date": "2023-05-05T00:00:00Z",
             "badges": [
                 {
-                    "badgeTitle": "Preparing for Your Associate Cloud Engineer Journey",
-                    "link": "https://www.cloudskillsboost.google/course_templates/77",
+                    "badgeTitle": "Preparing for Your Professional Cloud Architect Journey",
+                    "link": "https://www.cloudskillsboost.google/course_templates/78",
                     "isComplete": false
                 },
                 {
                     "badgeTitle": "Google Cloud Fundamentals: Core Infrastructure",
                     "link": "https://www.cloudskillsboost.google/course_templates/60",
+                    "isComplete": false
+                },
+                {
+                    "badgeTitle": "Essential Google Cloud Infrastructure: Foundation",
+                    "link": "https://www.cloudskillsboost.google/quests/50",
+                    "isComplete": false
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "isSelected": false,
+            "isComplete": false,
+            "date": "2023-05-12T00:00:00Z",
+            "badges": [
+                {
+                    "badgeTitle": "Essential Google Cloud Infrastructure: Core Services",
+                    "link": "https://www.cloudskillsboost.google/course_templates/49",
+                    "isComplete": false
+                },
+                {
+                    "badgeTitle": "Elastic Google Cloud Infrastructure: Scaling and Automation",
+                    "link": "https://www.cloudskillsboost.google/quests/178",
+                    "isComplete": false
+                },
+                {
+                    "badgeTitle": "Reliable Google Cloud Infrastructure: Design and Process",
+                    "link": "https://www.cloudskillsboost.google/course_templates/41",
+                    "isComplete": false
+                }
+            ]
+        },
+        {
+            "index": 2,
+            "isSelected": false,
+            "date": "2023-05-19T00:00:00Z",
+            "isComplete": false,
+            "badges": [
+                {
+                    "badgeTitle": "Getting Started with Google Kubernetes Engine",
+                    "link": "https://www.cloudskillsboost.google/quests/2",
+                    "isComplete": false
+                },
+                {
+                    "badgeTitle": "Logging, Monitoring and Observability in Google Cloud",
+                    "link": "https://www.cloudskillsboost.google/course_templates/99",
                     "isComplete": false
                 },
                 {
@@ -28,50 +74,19 @@
             ]
         },
         {
-            "index": 1,
-            "isSelected": false,
-            "isComplete": false,
-            "date": "2022-08-04T00:00:00Z",
-            "badges": [
-                {
-                    "badgeTitle": "Essential Google Cloud Infrastructure: Foundation",
-                    "link": "https://www.cloudskillsboost.google/course_templates/50",
-                    "isComplete": false
-                },
-              {
-                "badgeTitle": "Perform Foundational Infrastructure Tasks in Google Cloud",
-                "link": "https://www.cloudskillsboost.google/quests/118",
-                "isComplete": false
-              }
-            ]
-        },
-        {
-            "index": 2,
-            "isSelected": false,
-            "date": "2022-08-18T00:00:00Z",
-            "isComplete": false,
-            "badges": [
-                {
-                    "badgeTitle": "Essential Google Cloud Infrastructure: Core Services",
-                    "link": "https://www.cloudskillsboost.google/course_templates/49",
-                    "isComplete": false
-                },
-              {
-                "badgeTitle": "Set Up and Configure a Cloud Environment in Google Cloud",
-                "link": "https://www.cloudskillsboost.google/quests/119",
-                "isComplete": false
-              }
-            ]
-        },
-        {
             "index": 3,
             "isSelected": false,
-            "date": "2022-09-01T00:00:00Z",
+            "date": "2023-05-26T00:00:00Z",
             "isComplete": false,
             "badges": [
                 {
-                    "badgeTitle": "Elastic Google Cloud Infrastructure: Scaling and Automation",
-                    "link": "https://www.cloudskillsboost.google/course_templates/178",
+                    "badgeTitle": "Perform Foundational Infrastructure Tasks",
+                    "link": "https://www.cloudskillsboost.google/course_templates/118",
+                    "isComplete": false
+                },
+                {
+                    "badgeTitle": "Set up and Configure a Cloud Environment in Google Cloud",
+                    "link": "https://www.cloudskillsboost.google/course_templates/119",
                     "isComplete": false
                 },
                 {
@@ -88,26 +103,18 @@
             "isComplete": false,
             "badges": [
                 {
-                    "badgeTitle": "Reliable Google Cloud Infrastructure: Design and Process",
-                    "link": "https://www.cloudskillsboost.google/course_templates/41",
-                    "isComplete": false
-                }
-            ]
-        },
-        {
-            "index": 5,
-            "isSelected": false,
-            "date": "2022-09-29T00:00:00Z",
-            "isComplete": false,
-            "badges": [
-                {
-                    "badgeTitle": "Getting Started with Google Kubernetes Engine",
-                    "link": "https://www.cloudskillsboost.google/course_templates/2",
+                    "badgeTitle": "Deploy and Manage Cloud Environments with Google Cloud",
+                    "link": "https://www.cloudskillsboost.google/quests/121",
                     "isComplete": false
                 },
                 {
-                    "badgeTitle": "Deploy to Kubernetes in Google Cloud",
-                    "link": "https://www.cloudskillsboost.google/quests/116",
+                    "badgeTitle": "Optimize Costs for Google Kubernetes Engine",
+                    "link": "https://www.cloudskillsboost.google/quests/157",
+                    "isComplete": false
+                },
+                {
+                    "badgeTitle": "Cloud Architecture: Design, Implement, and Manage",
+                    "link": "https://www.cloudskillsboost.google/quests/124",
                     "isComplete": false
                 }
             ]
