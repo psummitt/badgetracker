@@ -1,7 +1,7 @@
 {
     "campaign": "Professional Cloud Architect",
     "community": "GDG Saint Louis",
-    "link": "https://gdg.community.dev/gdg-stlouis",
+    "link": "https://gdg.community.dev/gdg-st-louis",
     "badgesEndpoint": "https://us-central1-stlouisbadgetracker.cloudfunctions.net/stlouisbadgetracker",
     "sessions": [
         {
@@ -99,7 +99,7 @@
         {
             "index": 4,
             "isSelected": false,
-            "date": "2022-06-02T00:00:00Z",
+            "date": "2023-06-02T00:00:00Z",
             "isComplete": false,
             "badges": [
                 {
