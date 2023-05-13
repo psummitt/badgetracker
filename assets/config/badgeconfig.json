@@ -80,7 +80,7 @@
             "isComplete": false,
             "badges": [
                 {
-                    "badgeTitle": "Perform Foundational Infrastructure Tasks",
+                    "badgeTitle": "Perform Foundational Infrastructure Tasks in Google Cloud",
                     "link": "https://www.cloudskillsboost.google/quests/118",
                     "isComplete": false
                 },
