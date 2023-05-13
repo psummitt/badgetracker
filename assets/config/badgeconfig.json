@@ -58,7 +58,7 @@
             "badges": [
                 {
                     "badgeTitle": "Getting Started with Google Kubernetes Engine",
-                    "link": "https://www.cloudskillsboost.google/quests/2",
+                    "link": "https://www.cloudskillsboost.google/course_templates/2",
                     "isComplete": false
                 },
                 {
@@ -81,17 +81,17 @@
             "badges": [
                 {
                     "badgeTitle": "Perform Foundational Infrastructure Tasks",
-                    "link": "https://www.cloudskillsboost.google/course_templates/118",
+                    "link": "https://www.cloudskillsboost.google/quests/118",
                     "isComplete": false
                 },
                 {
                     "badgeTitle": "Set up and Configure a Cloud Environment in Google Cloud",
-                    "link": "https://www.cloudskillsboost.google/course_templates/119",
+                    "link": "https://www.cloudskillsboost.google/quests/119",
                     "isComplete": false
                 },
                 {
                     "badgeTitle": "Automating Infrastructure on Google Cloud with Terraform",
-                    "link": "https://www.cloudskillsboost.google/quests/159",
+                    "link": "https://www.cloudskillsboost.google/course_templates/159",
                     "isComplete": false
                 }
             ]
