@@ -2,7 +2,6 @@ import 'package:badgetracker/services/session.service.dart';
 import 'package:badgetracker/utils/utils.dart';
 import 'package:badgetracker/widgets/gcloudlogoanim.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/svg.dart';
 import 'package:provider/provider.dart';
 
 class BadgeTrackerHeader extends StatefulWidget {
@@ -70,9 +69,9 @@ class _BadgeTrackerHeaderState extends State<BadgeTrackerHeader> with SingleTick
                       child: Row(
                         crossAxisAlignment: CrossAxisAlignment.end,
                         children: [
-                          Column(
+                          const Column(
                             crossAxisAlignment: CrossAxisAlignment.start,
-                            children: const [
+                            children: [
                               Text('Road to Certification',
                                 style: TextStyle(color: Utils.darkGrey, fontSize: 15)
                               ),

@@ -83,13 +83,13 @@ class _BadgeTrackerSplashState extends State<BadgeTrackerSplash> with TickerProv
                             begin: const Offset(0.25, 0.0),
                             end: const Offset(0.0, 0.0)
                           ).animate(CurvedAnimation(parent: ctrl, curve: Curves.easeInOut)),
-                          child: Align(
+                          child: const Align(
                             alignment: Alignment.centerRight,
                             child: Column(
                               mainAxisSize: MainAxisSize.min,
                               crossAxisAlignment: CrossAxisAlignment.start,
                               mainAxisAlignment: MainAxisAlignment.center,
-                              children: const [
+                              children: [
                                 Text('Road to Certification',
                                   style: TextStyle(color: Colors.white, fontSize: 25)
                                 ),

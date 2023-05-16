@@ -12,15 +12,15 @@ class BadgeTrackerApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return Stack(
         children: [
-          Scaffold(
+          const Scaffold(
             backgroundColor: Colors.white,
             body: Column(
               children: [
-                const BadgeTrackerHeader(),
+                BadgeTrackerHeader(),
                 Expanded(
                   child: SingleChildScrollView(
                     child: Column(
-                      children: const [
+                      children: [
                         BadgeTrackerTimeline(),
                         BadgeCountMeter(),
                         BadgeTrackerSessionViewer()

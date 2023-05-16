@@ -1,5 +1,4 @@
 import 'package:badgetracker/models/badgeholder.dart';
-import 'package:badgetracker/services/badgeholderservice.dart';
 import 'package:badgetracker/services/proxyservice.dart';
 import 'package:badgetracker/utils/utils.dart';
 import 'package:badgetracker/widgets/badgeholderlist.dart';
@@ -7,7 +6,6 @@ import 'package:badgetracker/widgets/badgetracker.dart';
 import 'package:badgetracker/widgets/badgetrackersessionselector.dart';
 import 'package:badgetracker/widgets/gcloudlogoanim.dart';
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
 
 class BadgeTrackerSessionViewer extends StatelessWidget {
   const BadgeTrackerSessionViewer({Key? key}) : super(key: key);
@@ -27,7 +25,7 @@ class BadgeTrackerSessionViewer extends StatelessWidget {
             builder: (context, snapshot) {
 
               if (snapshot.hasError) {
-                return SizedBox(
+                return const SizedBox(
                   height: 300,
                   child: Stack(
                     children: [
@@ -36,7 +34,7 @@ class BadgeTrackerSessionViewer extends StatelessWidget {
                           mainAxisSize: MainAxisSize.min,
                           mainAxisAlignment: MainAxisAlignment.center,
                           crossAxisAlignment: CrossAxisAlignment.center,
-                          children: const [
+                          children: [
                             Icon(Icons.warning, color: Utils.mainRed, size: 60),
                             SizedBox(height: 10),
                             Text('Error Fetching Badge Data', textAlign: TextAlign.center,
