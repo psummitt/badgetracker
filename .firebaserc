@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "gdg-stlouis-badgetracker"
-  }
+    "default": "gdg-bloomington-badgetracker",
+    "public": "gdg-bloomington-badgetracker"
+  },
+  "targets": {},
+  "etags": {}
 }
