@@ -1,4 +1,4 @@
-# The GDG St. Louis badgetracker
+# The GDG Bloomington badgetracker
 
 A new Flutter project based on Roman Jaquez' Badgertracker app.
 
