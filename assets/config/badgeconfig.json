@@ -8,7 +8,7 @@
             "index": 0,
             "isSelected": false,
             "isComplete": false,
-            "date": "2023-05-23T00:00:00Z",
+            "date": "2023-06-06T00:00:00Z",
             "badges": [
                 {
                     "badgeTitle": "Google Cloud Big Data and Machine Learning Fundamentals",
@@ -31,7 +31,7 @@
             "index": 1,
             "isSelected": false,
             "isComplete": false,
-            "date": "2023-06-06T00:00:00Z",
+            "date": "2023-06-20T00:00:00Z",
             "badges": [
                 {
                     "badgeTitle": "Launching into Machine Learning",
@@ -48,7 +48,7 @@
         {
             "index": 2,
             "isSelected": false,
-            "date": "2023-06-20T00:00:00Z",
+            "date": "2023-06-27T00:00:00Z",
             "isComplete": false,
             "badges": [
                 {
@@ -66,7 +66,7 @@
         {
             "index": 3,
             "isSelected": false,
-            "date": "2023-06-27T00:00:00Z",
+            "date": "2023-07-18T00:00:00Z",
             "isComplete": false,
             "badges": [
                 {
@@ -75,8 +75,8 @@
                     "isComplete": false
                 },
                 {
-                    "badgeTitle": "Natural Language Processing on Google Cloud",
-                    "link": "https://www.cloudskillsboost.google/course_templates/40",
+                    "badgeTitle": "Computer Vision Fundamentals with Google Cloud",
+                    "link": "https://www.cloudskillsboost.google/course_templates/18",
                     "isComplete": false
                 }
             ]
@@ -84,30 +84,17 @@
         {
             "index": 4,
             "isSelected": false,
-            "date": "2023-06-18T00:00:00Z",
-            "isComplete": false,
-            "badges": [
-                {
-                    "badgeTitle": "Computer Vision Fundamentals with Google Cloud",
-                    "link": "https://www.cloudskillsboost.google/course_templates/18",
-                    "isComplete": false
-                },
-                {
-                    "badgeTitle": "Recommendation Systems on Google Cloud",
-                    "link": "https://www.cloudskillsboost.google/course_templates/39",
-                    "isComplete": false
-                }
-            ]
-        },
-        {
-            "index": 5,
-            "isSelected": false,
-            "date": "2023-08-01T00:00:00Z",
+            "date": "2023-08-1T00:00:00Z",
             "isComplete": false,
             "badges": [
                 {
                     "badgeTitle": "Natural Language Processing on Google Cloud",
                     "link": "https://www.cloudskillsboost.google/course_templates/40",
+                    "isComplete": false
+                },
+                                {
+                    "badgeTitle": "Recommendation Systems on Google Cloud",
+                    "link": "https://www.cloudskillsboost.google/course_templates/39",
                     "isComplete": false
                 },
                 {
@@ -118,7 +105,7 @@
             ]
         },
         {
-            "index": 6,
+            "index": 5,
             "isSelected": false,
             "date": "2023-08-15T00:00:00Z",
             "isComplete": false,
