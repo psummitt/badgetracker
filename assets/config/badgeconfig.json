@@ -80,8 +80,8 @@
             "isComplete": false,
             "badges": [
                 {
-                    "badgeTitle": "Perform Foundational Infrastructure Tasks",
-                    "link": "https://www.cloudskillsboost.google/course_templates/118",
+                    "badgeTitle": "Perform Foundational Infrastructure Tasks in Google Cloud",
+                    "link": "https://www.cloudskillsboost.google/quests/118",
                     "isComplete": false
                 },
                 {
@@ -99,7 +99,7 @@
         {
             "index": 4,
             "isSelected": false,
-            "date": "2022-09-15T00:00:00Z",
+            "date": "2023-06-08T00:00:00Z",
             "isComplete": false,
             "badges": [
                 {
